@@ -1,0 +1,17 @@
+This application was hosted on my own personal web server, to access it you can
+go to 'jackpearce.me' to get to the index page.
+
+I have created some users with both high and low permission levels so that you could
+test each of them, their logins are:
+-Admin account	
+	- Username: TestAdmin
+	- Password: password
+Standard Account
+	- Username: TestUser
+	- Password: password
+
+
+The server also has phpMyAdmin installed onto it. To access it you can go to 
+'jackpearce.me/phpmyadmin' and the login is:
+	-Username: Jack	
+	-Password: 123	
